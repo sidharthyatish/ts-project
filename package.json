@@ -1,0 +1,16 @@
+{
+  "name": "ecom-scrapper",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "E commerce website scrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'hai'"
+  },
+  "author": "Sidharth Yatish",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.12.13",
+    "typescript": "^5.4.5"
+  }
+}
